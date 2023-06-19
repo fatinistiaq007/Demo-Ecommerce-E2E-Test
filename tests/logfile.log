@@ -1,0 +1,409 @@
+2023-06-10 21:32:31,423 : INFO : test_e2e : Getting all the card titles
+2023-06-10 21:32:31,473 : INFO : test_e2e : iphone X
+2023-06-10 21:32:31,506 : INFO : test_e2e : Samsung Note 8
+2023-06-10 21:32:31,540 : INFO : test_e2e : Nokia Edge
+2023-06-10 21:32:31,572 : INFO : test_e2e : Blackberry
+2023-06-10 21:32:36,989 : INFO : test_e2e : Entering country name as bangla
+2023-06-10 21:32:42,553 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-10 23:29:10,238 : INFO : test_formSubmission : First Name is Fatin
+2023-06-10 23:29:11,315 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-10 23:29:12,043 : INFO : test_formSubmission : First Name is Jarin
+2023-06-10 23:29:12,043 : INFO : test_formSubmission : First Name is Jarin
+2023-06-10 23:29:13,451 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-10 23:29:13,451 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-10 23:29:19,722 : INFO : test_e2e : Getting all the card titles
+2023-06-10 23:29:19,767 : INFO : test_e2e : iphone X
+2023-06-10 23:29:19,801 : INFO : test_e2e : Samsung Note 8
+2023-06-10 23:29:19,825 : INFO : test_e2e : Nokia Edge
+2023-06-10 23:29:19,850 : INFO : test_e2e : Blackberry
+2023-06-10 23:29:25,103 : INFO : test_e2e : Entering country name as bangla
+2023-06-10 23:29:30,569 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-11 00:36:31,347 : INFO : test_formSubmission : First Name is Fatin
+2023-06-11 00:36:32,590 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 00:36:33,242 : INFO : test_formSubmission : First Name is Jarin
+2023-06-11 00:36:33,242 : INFO : test_formSubmission : First Name is Jarin
+2023-06-11 00:36:34,420 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 00:36:34,420 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 00:36:40,629 : INFO : test_e2e : Getting all the card titles
+2023-06-11 00:36:40,700 : INFO : test_e2e : iphone X
+2023-06-11 00:36:40,733 : INFO : test_e2e : Samsung Note 8
+2023-06-11 00:36:40,765 : INFO : test_e2e : Nokia Edge
+2023-06-11 00:36:40,800 : INFO : test_e2e : Blackberry
+2023-06-11 00:36:46,221 : INFO : test_e2e : Entering country name as bangla
+2023-06-11 00:36:51,798 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-11 00:49:49,732 : INFO : test_formSubmission : First Name is Fatin
+2023-06-11 00:49:51,098 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 00:49:51,555 : INFO : test_formSubmission : First Name is Jarin
+2023-06-11 00:49:51,555 : INFO : test_formSubmission : First Name is Jarin
+2023-06-11 00:49:53,018 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 00:49:53,018 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 00:49:58,544 : INFO : test_e2e : Getting all the card titles
+2023-06-11 00:49:58,602 : INFO : test_e2e : iphone X
+2023-06-11 00:49:58,639 : INFO : test_e2e : Samsung Note 8
+2023-06-11 00:49:58,679 : INFO : test_e2e : Nokia Edge
+2023-06-11 00:49:58,723 : INFO : test_e2e : Blackberry
+2023-06-11 00:50:04,179 : INFO : test_e2e : Entering country name as bangla
+2023-06-11 00:50:09,689 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-11 23:19:57,317 : INFO : test_formSubmission : First Name is Fatin
+2023-06-11 23:19:58,357 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 23:19:58,820 : INFO : test_formSubmission : First Name is Jarin
+2023-06-11 23:19:58,820 : INFO : test_formSubmission : First Name is Jarin
+2023-06-11 23:19:59,759 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 23:19:59,759 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-11 23:20:05,366 : INFO : test_e2e : Getting all the card titles
+2023-06-11 23:20:05,413 : INFO : test_e2e : iphone X
+2023-06-11 23:20:05,450 : INFO : test_e2e : Samsung Note 8
+2023-06-11 23:20:05,483 : INFO : test_e2e : Nokia Edge
+2023-06-11 23:20:05,519 : INFO : test_e2e : Blackberry
+2023-06-11 23:20:10,906 : INFO : test_e2e : Entering country name as bangla
+2023-06-11 23:20:16,383 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 00:42:12,062 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 00:42:13,203 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 00:42:13,670 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 00:42:13,670 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 00:42:14,670 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 00:42:14,670 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 00:42:20,202 : INFO : test_e2e : Getting all the card titles
+2023-06-12 00:42:20,256 : INFO : test_e2e : iphone X
+2023-06-12 00:42:20,297 : INFO : test_e2e : Samsung Note 8
+2023-06-12 00:42:20,337 : INFO : test_e2e : Nokia Edge
+2023-06-12 00:42:20,374 : INFO : test_e2e : Blackberry
+2023-06-12 00:42:25,757 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 00:42:31,222 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 01:24:44,177 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 01:24:45,171 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 01:24:45,582 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 01:24:45,582 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 01:24:46,320 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 01:24:46,320 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 01:24:51,808 : INFO : test_e2e : Getting all the card titles
+2023-06-12 01:24:51,882 : INFO : test_e2e : iphone X
+2023-06-12 01:24:51,918 : INFO : test_e2e : Samsung Note 8
+2023-06-12 01:24:51,978 : INFO : test_e2e : Nokia Edge
+2023-06-12 01:24:52,019 : INFO : test_e2e : Blackberry
+2023-06-12 01:24:57,469 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 01:25:02,981 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 12:56:43,597 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 12:56:44,626 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 12:56:45,193 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 12:56:45,193 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 12:56:46,282 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 12:56:46,282 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:32:31,375 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 16:32:32,669 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:32:33,122 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:32:33,122 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:32:34,159 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:32:34,159 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:32:39,102 : INFO : test_e2e : Getting all the card titles
+2023-06-12 16:32:39,157 : INFO : test_e2e : iphone X
+2023-06-12 16:32:39,192 : INFO : test_e2e : Samsung Note 8
+2023-06-12 16:32:39,229 : INFO : test_e2e : Nokia Edge
+2023-06-12 16:32:39,269 : INFO : test_e2e : Blackberry
+2023-06-12 16:32:44,689 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 16:32:50,169 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 16:40:52,868 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 16:40:54,003 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:40:54,469 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:40:54,469 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:40:55,601 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:40:55,601 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:41:00,517 : INFO : test_e2e : Getting all the card titles
+2023-06-12 16:41:00,570 : INFO : test_e2e : iphone X
+2023-06-12 16:41:00,605 : INFO : test_e2e : Samsung Note 8
+2023-06-12 16:41:00,642 : INFO : test_e2e : Nokia Edge
+2023-06-12 16:41:00,678 : INFO : test_e2e : Blackberry
+2023-06-12 16:41:06,080 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 16:44:15,543 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 16:44:16,540 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:44:17,040 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:44:17,040 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:44:18,160 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:44:18,160 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:44:22,821 : INFO : test_e2e : Getting all the card titles
+2023-06-12 16:44:22,870 : INFO : test_e2e : iphone X
+2023-06-12 16:44:22,900 : INFO : test_e2e : Samsung Note 8
+2023-06-12 16:44:22,931 : INFO : test_e2e : Nokia Edge
+2023-06-12 16:44:22,965 : INFO : test_e2e : Blackberry
+2023-06-12 16:44:28,320 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 16:44:33,767 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 16:52:04,825 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 16:52:05,912 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:52:06,379 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:52:06,379 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 16:52:07,371 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:52:07,371 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 16:52:12,685 : INFO : test_e2e : Getting all the card titles
+2023-06-12 16:52:12,735 : INFO : test_e2e : iphone X
+2023-06-12 16:52:12,772 : INFO : test_e2e : Samsung Note 8
+2023-06-12 16:52:12,810 : INFO : test_e2e : Nokia Edge
+2023-06-12 16:52:12,848 : INFO : test_e2e : Blackberry
+2023-06-12 16:52:18,408 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 16:52:24,114 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 21:20:00,387 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 21:20:01,499 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:20:02,088 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 21:20:02,088 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 21:20:03,137 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:20:03,137 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:20:09,135 : INFO : test_e2e : Getting all the card titles
+2023-06-12 21:20:09,218 : INFO : test_e2e : iphone X
+2023-06-12 21:20:09,252 : INFO : test_e2e : Samsung Note 8
+2023-06-12 21:20:09,292 : INFO : test_e2e : Nokia Edge
+2023-06-12 21:20:09,332 : INFO : test_e2e : Blackberry
+2023-06-12 21:20:14,734 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 21:20:20,267 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 21:29:42,768 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 21:29:44,010 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:29:44,461 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 21:29:44,461 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 21:29:45,499 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:29:45,499 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:29:51,641 : INFO : test_e2e : Getting all the card titles
+2023-06-12 21:29:51,698 : INFO : test_e2e : iphone X
+2023-06-12 21:29:51,738 : INFO : test_e2e : Samsung Note 8
+2023-06-12 21:29:51,775 : INFO : test_e2e : Nokia Edge
+2023-06-12 21:29:51,809 : INFO : test_e2e : Blackberry
+2023-06-12 21:29:57,318 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 21:30:02,838 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 21:41:06,866 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 21:41:07,656 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:41:08,146 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 21:41:08,146 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 21:41:08,839 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:41:08,839 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 21:41:15,284 : INFO : test_e2e : Getting all the card titles
+2023-06-12 21:41:15,336 : INFO : test_e2e : iphone X
+2023-06-12 21:41:15,373 : INFO : test_e2e : Samsung Note 8
+2023-06-12 21:41:15,407 : INFO : test_e2e : Nokia Edge
+2023-06-12 21:41:15,443 : INFO : test_e2e : Blackberry
+2023-06-12 21:41:20,829 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 21:41:26,249 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-12 23:06:40,485 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 23:06:45,651 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 23:06:45,651 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 23:51:42,041 : INFO : test_formSubmission : First Name is Fatin
+2023-06-12 23:51:43,123 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 23:51:44,081 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 23:51:44,081 : INFO : test_formSubmission : First Name is Jarin
+2023-06-12 23:51:45,276 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 23:51:45,276 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-12 23:52:00,365 : INFO : test_e2e : Getting all the card titles
+2023-06-12 23:52:00,412 : INFO : test_e2e : iphone X
+2023-06-12 23:52:00,431 : INFO : test_e2e : Samsung Note 8
+2023-06-12 23:52:00,450 : INFO : test_e2e : Nokia Edge
+2023-06-12 23:52:00,466 : INFO : test_e2e : Blackberry
+2023-06-12 23:52:06,463 : INFO : test_e2e : Entering country name as bangla
+2023-06-12 23:52:12,307 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-13 00:34:45,522 : INFO : test_formSubmission : First Name is Fatin
+2023-06-13 00:34:46,691 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-13 00:34:47,189 : INFO : test_formSubmission : First Name is Jarin
+2023-06-13 00:34:47,189 : INFO : test_formSubmission : First Name is Jarin
+2023-06-13 00:34:48,183 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-13 00:34:48,183 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-13 00:34:54,611 : INFO : test_e2e : Getting all the card titles
+2023-06-13 00:34:54,688 : INFO : test_e2e : iphone X
+2023-06-13 00:34:54,738 : INFO : test_e2e : Samsung Note 8
+2023-06-13 00:34:54,808 : INFO : test_e2e : Nokia Edge
+2023-06-13 00:34:54,861 : INFO : test_e2e : Blackberry
+2023-06-13 00:35:00,423 : INFO : test_e2e : Entering country name as bangla
+2023-06-13 00:35:06,384 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-14 01:55:00,347 : INFO : test_e2e : Getting all the card titles
+2023-06-14 01:55:00,414 : INFO : test_e2e : iphone X
+2023-06-14 01:55:00,460 : INFO : test_e2e : Samsung Note 8
+2023-06-14 01:55:00,500 : INFO : test_e2e : Nokia Edge
+2023-06-14 01:55:00,548 : INFO : test_e2e : Blackberry
+2023-06-14 01:55:05,991 : INFO : test_e2e : Entering country name as bangla
+2023-06-14 01:55:11,680 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-14 01:56:18,014 : INFO : test_e2e : Getting all the card titles
+2023-06-14 01:56:18,071 : INFO : test_e2e : iphone X
+2023-06-14 01:56:18,123 : INFO : test_e2e : Samsung Note 8
+2023-06-14 01:56:18,221 : INFO : test_e2e : Nokia Edge
+2023-06-14 01:56:18,291 : INFO : test_e2e : Blackberry
+2023-06-14 01:56:24,198 : INFO : test_e2e : Entering country name as bangla
+2023-06-14 01:56:30,023 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-14 01:58:26,947 : INFO : test_formSubmission : First Name is Fatin
+2023-06-14 01:58:28,141 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-14 01:58:33,802 : INFO : test_e2e : Getting all the card titles
+2023-06-14 01:58:33,856 : INFO : test_e2e : iphone X
+2023-06-14 01:58:33,897 : INFO : test_e2e : Samsung Note 8
+2023-06-14 01:58:33,936 : INFO : test_e2e : Nokia Edge
+2023-06-14 01:58:33,982 : INFO : test_e2e : Blackberry
+2023-06-14 01:58:39,433 : INFO : test_e2e : Entering country name as bangla
+2023-06-14 01:58:45,002 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-15 13:23:08,074 : INFO : test_e2e : Getting all the card titles
+2023-06-15 13:23:08,124 : INFO : test_e2e : iphone X
+2023-06-15 13:23:08,161 : INFO : test_e2e : Samsung Note 8
+2023-06-15 13:23:08,197 : INFO : test_e2e : Nokia Edge
+2023-06-15 13:23:08,233 : INFO : test_e2e : Blackberry
+2023-06-15 13:23:13,644 : INFO : test_e2e : Entering country name as bangla
+2023-06-15 13:23:19,507 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-15 13:24:06,911 : INFO : test_e2e : Getting all the card titles
+2023-06-15 13:24:06,954 : INFO : test_e2e : iphone X
+2023-06-15 13:24:07,098 : INFO : test_e2e : Samsung Note 8
+2023-06-15 13:24:07,163 : INFO : test_e2e : Nokia Edge
+2023-06-15 13:24:07,200 : INFO : test_e2e : Blackberry
+2023-06-15 13:24:13,002 : INFO : test_e2e : Entering country name as bangla
+2023-06-15 13:24:21,053 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-15 13:29:31,153 : INFO : test_e2e : Getting all the card titles
+2023-06-15 13:29:31,218 : INFO : test_e2e : iphone X
+2023-06-15 13:29:31,253 : INFO : test_e2e : Samsung Note 8
+2023-06-15 13:29:31,290 : INFO : test_e2e : Nokia Edge
+2023-06-15 13:29:31,324 : INFO : test_e2e : Blackberry
+2023-06-15 13:29:36,738 : INFO : test_e2e : Entering country name as bangla
+2023-06-15 13:29:42,364 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-15 13:32:25,239 : INFO : test_formSubmission : First Name is Fatin
+2023-06-15 13:32:26,352 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-15 13:32:26,786 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-15 13:32:26,786 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-15 13:32:27,699 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-15 13:32:27,699 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-15 13:32:32,935 : INFO : test_e2e : Getting all the card titles
+2023-06-15 13:32:32,992 : INFO : test_e2e : iphone X
+2023-06-15 13:32:33,034 : INFO : test_e2e : Samsung Note 8
+2023-06-15 13:32:33,069 : INFO : test_e2e : Nokia Edge
+2023-06-15 13:32:33,105 : INFO : test_e2e : Blackberry
+2023-06-15 13:32:38,513 : INFO : test_e2e : Entering country name as bangla
+2023-06-15 13:32:44,260 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-19 20:13:39,824 : INFO : test_formSubmission : First Name is Fatin
+2023-06-19 20:13:40,438 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 20:13:40,717 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 20:13:40,717 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 20:13:41,231 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 20:13:41,231 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 20:13:57,106 : INFO : test_e2e : Getting all the card titles
+2023-06-19 20:13:57,142 : INFO : test_e2e : iphone X
+2023-06-19 20:13:57,161 : INFO : test_e2e : Samsung Note 8
+2023-06-19 20:13:57,182 : INFO : test_e2e : Nokia Edge
+2023-06-19 20:13:57,199 : INFO : test_e2e : Blackberry
+2023-06-19 20:14:02,460 : INFO : test_e2e : Entering country name as bangla
+2023-06-19 20:14:07,873 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-19 20:14:51,289 : INFO : test_formSubmission : First Name is Fatin
+2023-06-19 20:14:51,992 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 20:14:52,291 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 20:14:52,291 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 20:14:52,803 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 20:14:52,803 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 20:14:56,248 : INFO : test_e2e : Getting all the card titles
+2023-06-19 20:14:56,295 : INFO : test_e2e : iphone X
+2023-06-19 20:14:56,337 : INFO : test_e2e : Samsung Note 8
+2023-06-19 20:14:56,373 : INFO : test_e2e : Nokia Edge
+2023-06-19 20:14:56,403 : INFO : test_e2e : Blackberry
+2023-06-19 20:15:01,762 : INFO : test_e2e : Entering country name as bangla
+2023-06-19 20:15:07,300 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-19 23:23:00,456 : INFO : test_formSubmission : First Name is Fatin
+2023-06-19 23:23:01,398 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 23:23:02,218 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 23:23:02,218 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 23:23:03,038 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 23:23:03,038 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 23:23:13,414 : INFO : test_e2e : Getting all the card titles
+2023-06-19 23:23:13,480 : INFO : test_e2e : iphone X
+2023-06-19 23:23:13,512 : INFO : test_e2e : Samsung Note 8
+2023-06-19 23:23:13,529 : INFO : test_e2e : Nokia Edge
+2023-06-19 23:23:13,541 : INFO : test_e2e : Blackberry
+2023-06-19 23:23:19,367 : INFO : test_e2e : Entering country name as bangla
+2023-06-19 23:23:25,214 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-06-19 23:27:12,789 : INFO : test_formSubmission : First Name is Fatin
+2023-06-19 23:27:13,439 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 23:27:13,757 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 23:27:13,757 : INFO : test_formSubmission : First Name is Abdullah
+2023-06-19 23:27:14,338 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 23:27:14,338 : INFO : test_formSubmission : Text received from application is ×
+Success! The Form has been submitted successfully!.
+2023-06-19 23:27:30,430 : INFO : test_e2e : Getting all the card titles
+2023-06-19 23:27:30,470 : INFO : test_e2e : iphone X
+2023-06-19 23:27:30,492 : INFO : test_e2e : Samsung Note 8
+2023-06-19 23:27:30,522 : INFO : test_e2e : Nokia Edge
+2023-06-19 23:27:30,551 : INFO : test_e2e : Blackberry
+2023-06-19 23:27:35,882 : INFO : test_e2e : Entering country name as bangla
+2023-06-19 23:27:41,404 : INFO : test_e2e : Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
